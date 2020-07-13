@@ -1,3 +1,5 @@
-# corr_dev4geo
+# source folder
 * pip install utm
 * python corr_build.py
+# distribution
+* extract 
